@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d130f790-f336-4d01-9f4c-58052236114a",
+  "export_job_id": "32451f47-ea2a-436e-a1d6-cc331a891d66",
   "id_short": 654802,
-  "published_at": "2026-04-23T07:02:51Z",
+  "published_at": "2026-04-29T19:27:02Z",
   "repo_name": "restaurant-verified-email-access-in-dallas-texas-us-sample-654802",
   "sample_asset_name": "beamstation_654802_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/654802/beamstation_654802_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 50,
-  "sample_sha256": "4ec6ac95969a0d157fc36786b419b4868a7c6cd38a95d4c41a7beab3407b019e",
-  "sample_size_bytes": 222419,
-  "total_records": 505
+  "sample_records": 87,
+  "sample_sha256": "01dfd8e12f995acd9324f2428790d7c7e528549e1327200bd73cc7eec126df02",
+  "sample_size_bytes": 362492,
+  "total_records": 879
 }
